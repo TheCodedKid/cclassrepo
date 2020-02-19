@@ -2,24 +2,12 @@
 using namespace std;
 
 int main(){
-	int num;
-	cout << "Enter an integer, please: ";
-	cin >> num;
+	if (age <= 65)
+		cout << "Age is greater than or equal to 65" << endl;
+	else
+		cout << "Age is less than 65" << endl;
 
-	if (num > 0 && num % 2 == 0) {
-		cout << num << " is positive, even\n";
-	}
-	else if (num > 0 && num % 2 != 0) {
-		cout << num << " is positive, odd\n";
-	}
-	else if (num < 0 && num % 2 == 0) {
-		cout << num << " is negative, even\n";
-	}
-	else if (num < 0 && num % 2 != 0) {
-		cout << num << " is negative, odd\n";
-	}
-	else if (num == 0) {
-		cout << num << " is zero, even\n";
-	}
-	return 0;
+	//age comparsion operator needs to be switched from "less than equal to" to "Greater than equal to"
+	//remove semicolon from end of else statement
+	//remove " << endl " from inside string "Age is less than 65 << endl" and place outside
 }
