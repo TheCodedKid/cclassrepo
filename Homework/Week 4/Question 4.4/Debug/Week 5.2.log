@@ -1,0 +1,4 @@
+﻿  trianglecalc.cpp
+C:\Users\shraumin\source\repos\CClassWork\In Class\Week 5\Week 5.2\trianglecalc.cpp(9,5): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\shraumin\source\repos\CClassWork\In Class\Week 5\Week 5.2\trianglecalc.cpp(9,30): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  Week 5.2.vcxproj -> C:\Users\shraumin\source\repos\CClassWork\In Class\Week 5\Week 5.2\Debug\Week 5.2.exe
