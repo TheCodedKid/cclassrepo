@@ -1,0 +1,3 @@
+﻿  quantity.cpp
+C:\Users\samue\source\repos\Question8.2\quantity.cpp(27,32): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  Question8.2.vcxproj -> C:\Users\samue\source\repos\Question8.2\Debug\Question8.2.exe
