@@ -6,9 +6,9 @@ int main() {
 	switch (value % 2) {
 		case 0:
 			cout << "Even Integer" << endl;
-			//break;
+			break;
 		case 1:
 			cout << "Odd Integer" << endl;
-			//break;
+			break;
 	}
 }

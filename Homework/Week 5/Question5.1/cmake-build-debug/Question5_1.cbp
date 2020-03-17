@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Question5_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Question5_1">
+				<Option output="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Question5_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/."/>
+					<Add directory="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/.vs"/>
+					<Add directory="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Question5_1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Question5_1/fast">
+				<Option output="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Question5_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/."/>
+					<Add directory="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/.vs"/>
+					<Add directory="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Question5_1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/.vs/Question5.1/v16/.suo">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/.vs/Question5.1/v16/Browse.VC.db">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/.vs/Question5.1/v16/ipch/AutoPCH/9a8fe32b58680517/MAIN.ipch">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.exe">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.ilk">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.log">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.pdb">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.tlog/CL.command.1.tlog">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.tlog/CL.read.1.tlog">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.tlog/CL.write.1.tlog">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.tlog/Question5.1.lastbuildstate">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.tlog/link.command.1.tlog">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.tlog/link.read.1.tlog">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/Question5.1.tlog/link.write.1.tlog">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/main.obj">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/vc142.idb">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Debug/vc142.pdb">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Question5.1.sln">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Question5.1.vcxproj">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Question5.1.vcxproj.filters">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/Question5.1.vcxproj.user">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/main.cpp">
+			<Option target="Question5_1"/>
+		</Unit>
+		<Unit filename="C:/Users/samue/Desktop/C++ Files/cclass repo/Homework/Week 5/Question5.1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
