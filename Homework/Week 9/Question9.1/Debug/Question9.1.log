@@ -1,0 +1,9 @@
+﻿  x.cpp
+C:\Users\Sam's Pc\Desktop\C++ Work\Homework\Week 9\Question9.1\x.cpp(6,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sam's Pc\Desktop\C++ Work\Homework\Week 9\Question9.1\x.cpp(8,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sam's Pc\Desktop\C++ Work\Homework\Week 9\Question9.1\x.cpp(10,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sam's Pc\Desktop\C++ Work\Homework\Week 9\Question9.1\x.cpp(12,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sam's Pc\Desktop\C++ Work\Homework\Week 9\Question9.1\x.cpp(14,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sam's Pc\Desktop\C++ Work\Homework\Week 9\Question9.1\x.cpp(16,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sam's Pc\Desktop\C++ Work\Homework\Week 9\Question9.1\x.cpp(18,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Question9.1.vcxproj -> C:\Users\Sam's Pc\Desktop\C++ Work\Homework\Week 9\Question9.1\Debug\Question9.1.exe
