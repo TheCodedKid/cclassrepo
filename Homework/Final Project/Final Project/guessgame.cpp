@@ -15,7 +15,10 @@ string guessinggame(int guess, int random) {
 		ret = "\nYes! That is the number!\n";
 		correct = true;
 	}
-	else if (guess <= 0 || guess > 100) {
+	else if (guess == 0) {
+		//nothing
+	}
+	else if (guess < 0 || guess > 100) {
 		ret = "\nInvalid Range. The random number is between 1 and 100.\n";
 	}
 	else if (guess > random) {
